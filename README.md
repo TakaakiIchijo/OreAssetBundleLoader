@@ -1,4 +1,4 @@
-# AssetBundleLoader
+# OreAssetBundleLoader
 よくあるオレオレアセットバンドルローダー
 
 ## 方針
